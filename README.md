@@ -1,1 +1,4 @@
 # Rainbow
+yellow 
+green 
+orange
